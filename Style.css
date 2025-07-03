@@ -1,0 +1,28 @@
+*,
+html{
+    padding=0;
+}
+
+.all{
+    background-color:rgb(24, 24, 24);
+    font-family: sans-serif;
+    font-size: 200%;
+}
+
+.halaman-depan{
+    color:antiquewhite;
+    justify-content: center;
+    display: flex;
+    padding:65px;
+}
+
+.icon-1{
+    justify-content: center;
+    display: flex;
+}
+
+.TULISAN-1{
+    justify-content: center;
+    display: flex;
+     color:antiquewhite;
+}
